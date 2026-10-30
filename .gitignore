@@ -73,3 +73,8 @@ tmp/
 .env.test.local
 .env.production.local
 *.env
+
+link_error*.txt
+xcode_log.txt
+deps*.txt
+local.properties
